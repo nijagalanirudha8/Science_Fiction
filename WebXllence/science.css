@@ -1,0 +1,26 @@
+marquee{
+    color: white;
+    margin: 0%;
+}
+
+#science {
+    text-align: center;
+}
+
+#fiction {
+    color: black;
+}
+
+#suii {
+    color: blue;
+    text-align: center;
+}
+
+#centre {
+    margin-left: 25%;
+}
+
+#trailer {
+    text-align: center;
+    margin-bottom: 200%;
+}
